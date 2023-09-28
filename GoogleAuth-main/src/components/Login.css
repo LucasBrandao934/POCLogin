@@ -1,0 +1,15 @@
+.header {
+    margin: 35px 0;
+    text-align: center;
+    color: var(--cor-terciaria);
+}
+
+.perfil_imagem {
+    display: block;
+    margin: auto;
+    background-image: url("../../assets/logoGoogle.png");
+    width: 270px;
+    height: 270px;
+    background-size: cover;
+    border-radius: 0%;
+}
